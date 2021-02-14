@@ -13,4 +13,3 @@ def select_sort(li):
 ex = [2, 4, 5, 1, 3]
 select_sort(ex)
 print(ex)
-
